@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/custom_button.xml",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-mdpi/custom_button.xml"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/focused.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-mdpi/focused.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/shape.xml",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-mdpi/shape.xml"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/alert.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-mdpi/alert.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/nofocused.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-mdpi/nofocused.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/images.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-mdpi/images.png"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="22"
+    density="xxhdpi"
+    format="7"
+    timestamp="345848868716537"
+    token="6094881002669195781" >
+
+    <task
+        name="javac"
+        duration="755" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="142" />
+    <task
+        name="verifier"
+        duration="13" />
+
+    <artifact
+        location="/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="345848868716537" >
+        <artifact
+            location="/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

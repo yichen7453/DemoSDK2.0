@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">JmtFpsDemo</string>
+    <string name="click">SSS</string>
+    <string name="enroll_activity_tip">Place finger on sensor, feel the vibrate to lift your finger\n</string>
+    <string name="li">L</string>
+    <string name="lockSuccess">解锁成功</string>
+    <string name="shuang">S</string>
+</resources>

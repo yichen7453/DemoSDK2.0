@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/raw/success.ogg",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/raw/success.ogg"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/raw/fail.ogg",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/raw/fail.ogg"
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 52,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 47,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 37,
+                    "endOffset": 303
+                },
+                "from": {
+                    "file": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 270,
+                        "endColumn": 37,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 308,
+                    "endColumn": 110,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 110,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 32,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 308,
+                        "endColumn": 32,
+                        "endOffset": 336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 44,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 44,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 36,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endColumn": 36,
+                        "endOffset": 373
+                    }
+                }
+            }
+        ]
+    }
+]

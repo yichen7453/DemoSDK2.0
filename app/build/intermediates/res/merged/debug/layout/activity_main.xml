@@ -1,0 +1,234 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:id="@+id/rootview"
+    android:paddingTop="5dp"
+    android:background="#fff"
+    tools:context=".MainActivity" >
+
+    <LinearLayout
+        android:id="@+id/linearlayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="5dp"
+            android:paddingStart="5dp"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/toggle_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp" >
+
+                <TextView
+                    android:id="@+id/toggle_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/toggleBtn"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginStart="15dp"
+                    android:text="Touch"
+                    android:textColor="#000"
+                    android:textSize="19sp" />
+
+                <ToggleButton
+                    android:id="@+id/toggleBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:background="@android:color/transparent"
+                    android:button="@drawable/switch_btn"
+                    android:textOn=""
+                    android:textOff="" />
+
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/btn_image"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_style_white"
+                android:textColor="#000" />
+
+            <Button
+                android:id="@+id/btn_enroll"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_style_white"
+                android:textColor="#000"
+                android:layout_marginTop="5dp" />
+
+            <Button
+                android:id="@+id/btn_verify"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_style_white"
+                android:textColor="#000"
+                android:layout_marginTop="5dp" />
+
+            <Button
+                android:id="@+id/btn_cancel"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_style_white"
+                android:textColor="#000"
+                android:layout_marginTop="5dp"/>
+
+            <Button
+                android:id="@+id/btn_erase"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_style_white"
+                android:textColor="#000"
+                android:layout_marginTop="5dp" />
+
+            <Button
+                android:id="@+id/btn_stress"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_style_white"
+                android:textColor="#000"
+                android:layout_marginTop="5dp"/>
+
+            <Button
+                android:id="@+id/btn_navigation"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_style_white"
+                android:textColor="#000"
+                android:layout_marginTop="5dp"/>
+
+            <Button
+                android:id="@+id/btn_waitclick"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_style_white"
+                android:textColor="#000"
+                android:layout_marginTop="5dp"/>
+
+            <Button
+                android:id="@+id/btn_exit"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_style_white"
+                android:textColor="#000"
+                android:layout_marginTop="5dp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/tvSDK"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:textColor="#000"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:id="@+id/tv_chipid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:textColor="#000"
+                android:textSize="14sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                 >
+                <SurfaceView
+                    android:id="@+id/surfaceView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_weight="1" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    >
+                <TextView
+                    android:id="@+id/tvMessage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000"
+                    android:textSize="16sp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentStart="true" />
+
+                <TextView
+                    android:id="@+id/tvPercentage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000"
+                    android:textSize="14sp"
+                    android:layout_below="@+id/tvMessage"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="10dp" />
+            </LinearLayout>
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+    <!--<TextView
+        android:id="@+id/tvPercentage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:textColor="#000"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tvMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="8dp"
+        android:textColor="#000"
+        android:textSize="18sp" />-->
+
+    <ScrollView
+        android:id="@+id/svScroll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <HorizontalScrollView
+            android:id="@+id/hsvScroll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/ivImage1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:maxHeight="1000dp"
+                android:maxWidth="1000dp"
+                android:layout_marginTop="100dp" />
+        </HorizontalScrollView>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable/btn_style_white.xml",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable/btn_style_white.xml"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable/jmt.jpg",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable/jmt.jpg"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable/love.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable/love.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable/switch_btn.xml",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable/switch_btn.xml"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable/bg.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable/bg.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable/lockbg.xml",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable/lockbg.xml"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable/btn_style_green.xml",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable/btn_style_green.xml"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable/lockbg1.xml",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable/lockbg1.xml"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable/circlebg.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable/circlebg.png"
+    }
+]

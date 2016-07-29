@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b5352cec2959c1f6750a855da565a165e325e42">
+        <dex dex="/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9db72d230301bc7bc10d479b485e6f3f123e375/classes.dex" />
+    </item>
+    <item
+        jar="/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2917fc5c7fced168d02179ff4f86381a3c8950b3">
+        <dex dex="/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2b5b5a7cca66b31e448c37a2d2b3bdbb3f1d13e0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/libs/JmtFP.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d80dff1917e0528d644557a4ca213469cd38c09">
+        <dex dex="/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/transforms/dex/debug/folders/1000/2/JmtFP_3fe22ee3de7e5e3fb52cb1f99e2117c2f58b7cfd/classes.dex" />
+    </item>
+
+</items>

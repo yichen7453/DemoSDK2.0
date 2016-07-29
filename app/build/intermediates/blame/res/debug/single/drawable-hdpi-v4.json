@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_one_normal.9.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/btn_style_one_normal.9.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_one_disabled.9.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/btn_style_one_disabled.9.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/slider_arrow_2.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/slider_arrow_2.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/slider_arrow_3.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/slider_arrow_3.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/abc.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/getup_slider_ico_pressed.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/getup_slider_ico_pressed.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_two_focused.9.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/btn_style_two_focused.9.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_one_focused.9.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/btn_style_one_focused.9.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_one_pressed.9.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/btn_style_one_pressed.9.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ios7_switch_off.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/ios7_switch_off.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_two_pressed.9.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/btn_style_two_pressed.9.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/getup_slider_ico_normal.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/getup_slider_ico_normal.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/step2_tip_2.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/step2_tip_2.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_style_two_normal.9.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/btn_style_two_normal.9.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/slider_arrow_1.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/slider_arrow_1.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ios7_switch_on.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/ios7_switch_on.png"
+    },
+    {
+        "merged": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/slider_ico_alarm.png",
+        "source": "/Users/YiChen/Desktop/Phone/新竹SDK/20160504_libJmtSDK_v2.5.1.7/demo_src/DemoSDK2.0/app/src/main/res/drawable-hdpi/slider_ico_alarm.png"
+    }
+]
